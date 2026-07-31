@@ -44,6 +44,8 @@ Outputs:
     5_2_ai_tasks/              (tables+figures)
     5_3_efficiency/            (tables+figures + online auditing log/figure)
     run_manifest.json
+
+Authors: Jaime Aguilar Ortiz et. al.
 """
 
 from __future__ import annotations
