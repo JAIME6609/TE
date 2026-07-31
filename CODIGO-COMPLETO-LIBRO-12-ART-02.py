@@ -38,7 +38,7 @@ Outputs:
       5_2_utility_privacy_tradeoffs/
       5_3_topological_auditing/
 
-Author: Jaime Aguilar Ortiz
+Authors: Jaime Aguilar Ortiz et. al.
 """
 
 from __future__ import annotations
